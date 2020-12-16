@@ -1,0 +1,17 @@
+/*div{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    width: 20vw;
+    height: 50vh;
+    border: 0;
+	font-size: 100%;
+	font: inherit;
+    vertical-align: baseline;
+    background-color: aliceblue;
+}*/
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
